@@ -1,0 +1,28 @@
+README
+======
+
+Hi! This is Jered. These are some of the AppleScripts that I have created to work with [TaskPaper](http://www.hogbaysoftware.com/wiki/TaskPaper).
+
+Want to learn more about [TaskPaper](http://www.hogbaysoftware.com/wiki/TaskPaper), head over to [Hog Bay Software](http://www.hogbaysoftware.com/).
+
+These scripts work best with [FastScripts](http://www.red-sweater.com/fastscripts/) from [Red Sweater Software](http://www.red-sweater.com/)
+
+## Convert to Task
+
+Converts currently selected TaskPaper entry to a task type entry
+
+## Convert to Note
+
+Converts currently selected TaskPaper entry to a note type entry
+
+## Convert to Project
+
+Converts currently selected TaskPaper entry to a project type entry
+
+## Create Taskpaper Task
+
+Grabs URL and selected text from Safari and adds the URL as a task type entry with a date stamp and adds selected text as note type entry.
+
+## Notes:
+
+Most of these scripts are probably crap, but they work for me.
